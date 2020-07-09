@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💻 I´m a Software Engineering student
+- 🔭 Currently working mostly with React and Node
+- ⚡ Learning Graphql, Firebase and other stuff
+- 📜 More here: https://www.linkedin.com/in/matias-massetti/
+
+
 <!--
 **mmassetti/mmassetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
