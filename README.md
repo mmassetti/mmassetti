@@ -13,4 +13,4 @@
 - 💻 A Software Engineering student
 - 🔭 Currently working mostly with React and Node
 - ⚡ Learning Graphql, Firebase and other great stuff
-- 📜 More here: https://www.linkedin.com/in/matias-massetti/
+- Always loooking for new opportunities
