@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I´m Matias Massetti
-- 💻 A Software Engineering student
+- 💻 IT Engineer at UNS
 - 🔭 Currently working mostly with React and Node
 - ⚡ Learning Graphql, Firebase and other great stuff
-- Always loooking for new opportunities
+- Helping Teladoc's AI team to create awesome tools to improve telemedicine and people's lives
