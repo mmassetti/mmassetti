@@ -11,6 +11,6 @@
 
 ### I´m Matias Massetti
 - 💻 IT Engineer at UNS
-- 🔭 Currently working mostly with React and Node
-- ⚡ Learning Graphql, Firebase and other great stuff
+- 🔭 Currently working mostly with React, GraphQL and AWS
+- ⚡ Using Nextjs, Tailwind, FaunaDB, Strapi, and other great stuff
 - Helping Teladoc's AI team to create awesome tools to improve telemedicine and people's lives
