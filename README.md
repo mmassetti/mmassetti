@@ -13,4 +13,4 @@
 - 💻 IT Engineer at UNS
 - 🔭 Currently working mostly with React, GraphQL and AWS
 - ⚡ Using Nextjs, Tailwind, FaunaDB, Strapi, and other great stuff
-- Helping Teladoc's AI team to create awesome tools to improve telemedicine and people's lives
+- Helping Teladoc's AI team to create awesome tools and trying to improve telemedicine and people's lives (hopefully)
