@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I´m Matias Massetti
-- 💻 IT Engineer at UNS
+- 💻 BS in Software Engineering at UNS
 - 🔭 Currently working mostly with React, GraphQL and AWS
 - ⚡ Using Nextjs, Tailwind, FaunaDB, Strapi, and other great stuff
 - Helping Teladoc's AI team to create awesome tools and trying to improve telemedicine and people's lives (hopefully)
