@@ -12,5 +12,5 @@
 ### I´m Matias Massetti
 - 💻 BS in Software Engineering at UNS
 - 🔭 Currently working mostly with React, GraphQL and AWS
-- ⚡ Using Nextjs, Tailwind, FaunaDB, Strapi, and other great stuff
+- ⚡ Using Nextjs, Tailwind, FaunaDB, Prisma, PlanetScale, Strapi, and other great stuff
 - Helping Teladoc's AI team to create awesome tools and trying to improve telemedicine and people's lives (hopefully)
